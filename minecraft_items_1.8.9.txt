@@ -2,6 +2,7 @@
 
 **Blöcke:**
 - Stone
+5 - Stone Brock Stairs 
 - Grass Block
 - Dirt
 - Cobblestone
@@ -10,7 +11,7 @@
 - Spruce Wood
 - Dark Oak Wood
 - Jungle Wood
-- Sand
+- 9 Sand
 - Gravel
 - Glass
 - Bricks
@@ -33,6 +34,7 @@
 - Oak Leaves
 - Birch Leaves
 - Spruce Leaves
+- 11 Slime Block
 
 ---
 
@@ -97,7 +99,7 @@
 - Stick
 - String
 - Feather
-- Gunpowder
+- 1 Gunpowder
 - Flint
 - Leather
 - Coal
@@ -114,9 +116,9 @@
 - Blaze Rod
 - Ender Pearl
 - Eye of Ender
-- Magma Cream
+- 25 Magma Cream
 - Ghast Tear
-- Spider Eye
+- 21 Spider Eye
 
 ---
 
@@ -141,9 +143,10 @@
 ---
 
 **Sonstige:**
-- Bucket
-- Water Bucket
-- Lava Bucket
+- 13 Book
+- 4 Bucket
+- 6 Water Bucket
+- 8 Lava Bucket
 - Milk Bucket
 - Minecart
 - Minecart with Chest
@@ -152,7 +155,7 @@
 - Compass
 - Clock
 - Painting
-- Sign
+- 10 Sign
 - Item Frame
 - Flower Pot
 - Lead
@@ -162,3 +165,12 @@
 - Potion
 - Fire Charge
 - Firework Rocket
+
+add 
+- 7 Sugar Canes
+- 2 Oak Leaves
+- 3 Sugar
+- 15 & 16 Glass Bottle
+- 17 kopf
+- 19 Nether 
+- 23 Fermented Spider Eye
