@@ -2,7 +2,8 @@
 
 **Blöcke:**
 - Stone
-5 - Stone Brock Stairs 
+- 5 Stone Brock Stairs 
+- 45 Stone Bricks
 - Grass Block
 - Dirt
 - Cobblestone
@@ -58,7 +59,7 @@
 - Stone Hoe
 - Iron Hoe
 - Gold Hoe
-- Diamond Hoe
+- 43 Diamond Hoe
 - Shears
 - Flint and Steel
 
@@ -70,7 +71,7 @@
 - Iron Sword
 - Gold Sword
 - Diamond Sword
-- Bow
+- 61 Bow
 - Arrow
 
 ---
@@ -101,7 +102,7 @@
 - Feather
 - 1 Gunpowder
 - Flint
-- Leather
+- 59 Leather
 - Coal
 - Charcoal
 - Iron Ingot
@@ -112,7 +113,7 @@
 - Nether Quartz
 - Slimeball
 - Bone
-- Blaze Powder
+- 33 Blaze Powder
 - Blaze Rod
 - Ender Pearl
 - Eye of Ender
@@ -138,7 +139,7 @@
 - Diamond Helmet
 - Diamond Chestplate
 - Diamond Leggings
-- Diamond Boots
+- 63 Diamond Boots
 
 ---
 
@@ -166,11 +167,27 @@
 - Fire Charge
 - Firework Rocket
 
+food
+- 55 Steak
+
 add 
+- 57 Iron Door
 - 7 Sugar Canes
 - 2 Oak Leaves
 - 3 Sugar
 - 15 & 16 Glass Bottle
 - 17 kopf
 - 19 Nether 
+- 27 Glowstone Dust
 - 23 Fermented Spider Eye
+- 29 Spruce Sapling
+- 31 Ghast Tear 
+- 35 Cocoa beans
+- 37 Sea Lantern
+- 39 Brick
+- 49 Poppy
+- 51 Wheat
+- 53 map 
+
+mods gg
+- 47 Entrindeter Eichenholz-Schreib
