@@ -1,0 +1,140 @@
+Blöcke:
+ - Stone
+ - Dirt
+ - Grass Block
+ - Cobblestone
+ - Wooden Planks
+ - Sand
+ - Gravel
+ - Gold Ore
+ - Iron Ore
+ - Copper Ore
+ - Coal Ore
+ - Amethyst Block
+ - Calcite
+ - Deepslate
+ - Moss Block
+ - Cobbled Deepslate
+ - Glass
+ - Bricks
+ - TNT
+ - Mud
+
+Werkzeuge:
+ - Wooden Pickaxe
+ - Stone Pickaxe
+ - Iron Pickaxe
+ - Gold Pickaxe
+ - Diamond Pickaxe
+ - Netherite Pickaxe
+ - Wooden Axe
+ - Stone Axe
+ - Iron Axe
+ - Gold Axe
+ - Diamond Axe
+ - Netherite Axe
+ - Wooden Shovel
+ - Stone Shovel
+ - Iron Shovel
+ - Gold Shovel
+ - Diamond Shovel
+ - Netherite Shovel
+ - Wooden Hoe
+ - Stone Hoe
+ - Iron Hoe
+ - Gold Hoe
+ - Diamond Hoe
+ - Netherite Hoe
+
+Waffen:
+ - Wooden Sword
+ - Stone Sword
+ - Iron Sword
+ - Gold Sword
+ - Diamond Sword
+ - Netherite Sword
+ - Bow
+ - Arrow
+ - Crossbow
+ - Trident
+ - Netherite Shield
+
+Nahrungsmittel:
+ - Apple
+ - Mushroom Stew
+ - Bread
+ - Porkchop
+ - Cooked Porkchop
+ - Golden Apple
+ - Fish
+ - Cooked Fish
+ - Carrot
+ - Potato
+ - Baked Potato
+ - Pumpkin Pie
+ - Sweet Berries
+ - Honey Bottle
+ - Suspicious Stew
+ - Glow Berries
+
+Materialien:
+ - Stick
+ - String
+ - Feather
+ - Gunpowder
+ - Flint
+ - Leather
+ - Coal
+ - Charcoal
+ - Iron Ingot
+ - Gold Ingot
+ - Diamond
+ - Emerald
+ - Redstone
+ - Copper Ingot
+ - Nether Quartz
+ - Amethyst Shard
+ - Slimeball
+ - Bone
+ - Ancient Debris
+ - Netherite Scrap
+
+Rüstungen:
+ - Leather Helmet
+ - Leather Chestplate
+ - Leather Leggings
+ - Leather Boots
+ - Iron Helmet
+ - Iron Chestplate
+ - Iron Leggings
+ - Iron Boots
+ - Gold Helmet
+ - Gold Chestplate
+ - Gold Leggings
+ - Gold Boots
+ - Diamond Helmet
+ - Diamond Chestplate
+ - Diamond Leggings
+ - Diamond Boots
+ - Netherite Helmet
+ - Netherite Chestplate
+ - Netherite Leggings
+ - Netherite Boots
+
+Sonstige:
+ - Bucket
+ - Water Bucket
+ - Lava Bucket
+ - Axolotl Bucket
+ - Minecart
+ - Boat
+ - Painting
+ - Sign
+ - Bed
+ - Book
+ - Name Tag
+ - Saddle
+ - Spyglass
+ - Goat Horn
+ - Recovery Compass
+

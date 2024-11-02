@@ -1,0 +1,119 @@
+Blöcke:
+ - Stone
+ - Dirt
+ - Grass Block
+ - Cobblestone
+ - Wooden Planks
+ - Sand
+ - Gravel
+ - Gold Ore
+ - Iron Ore
+ - Coal Ore
+ - Oak Wood
+ - Spruce Wood
+ - Birch Wood
+ - Jungle Wood
+ - Acacia Wood
+ - Dark Oak Wood
+ - Glass
+ - Bricks
+ - TNT
+
+Werkzeuge:
+ - Wooden Pickaxe
+ - Stone Pickaxe
+ - Iron Pickaxe
+ - Gold Pickaxe
+ - Diamond Pickaxe
+ - Wooden Axe
+ - Stone Axe
+ - Iron Axe
+ - Gold Axe
+ - Diamond Axe
+ - Wooden Shovel
+ - Stone Shovel
+ - Iron Shovel
+ - Gold Shovel
+ - Diamond Shovel
+ - Wooden Hoe
+ - Stone Hoe
+ - Iron Hoe
+ - Gold Hoe
+ - Diamond Hoe
+
+Waffen:
+ - Wooden Sword
+ - Stone Sword
+ - Iron Sword
+ - Gold Sword
+ - Diamond Sword
+ - Bow
+ - Arrow
+
+Nahrungsmittel:
+ - Apple
+ - Mushroom Stew
+ - Bread
+ - Porkchop
+ - Cooked Porkchop
+ - Golden Apple
+ - Fish
+ - Cooked Fish
+ - Carrot
+ - Potato
+ - Baked Potato
+ - Pumpkin Pie
+ - Beef
+ - Cooked Beef
+ - Chicken
+ - Cooked Chicken
+
+Materialien:
+ - Stick
+ - String
+ - Feather
+ - Gunpowder
+ - Flint
+ - Leather
+ - Coal
+ - Charcoal
+ - Iron Ingot
+ - Gold Ingot
+ - Diamond
+ - Emerald
+ - Redstone
+ - Nether Quartz
+ - Slimeball
+ - Bone
+
+Rüstungen:
+ - Leather Helmet
+ - Leather Chestplate
+ - Leather Leggings
+ - Leather Boots
+ - Iron Helmet
+ - Iron Chestplate
+ - Iron Leggings
+ - Iron Boots
+ - Gold Helmet
+ - Gold Chestplate
+ - Gold Leggings
+ - Gold Boots
+ - Diamond Helmet
+ - Diamond Chestplate
+ - Diamond Leggings
+ - Diamond Boots
+
+Sonstige:
+ - Bucket
+ - Water Bucket
+ - Lava Bucket
+ - Minecart
+ - Boat
+ - Painting
+ - Sign
+ - Bed
+ - Book
+ - Name Tag
+ - Saddle
+
