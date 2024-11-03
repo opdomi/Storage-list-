@@ -1,7 +1,7 @@
 ---
 
 **Blöcke:**
-- Stone
+- 12 Stone
 - 5 Stone Brock Stairs 
 - 45 Stone Bricks
 - Grass Block
