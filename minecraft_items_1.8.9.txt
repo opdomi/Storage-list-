@@ -14,7 +14,7 @@
 - Jungle Wood
 - 9 Sand
 - Gravel
-- Glass
+- 40 Glass
 - Bricks
 - TNT
 - Mossy Cobblestone
@@ -38,6 +38,8 @@
 - 11 Slime Block
 - 22 Block of Quartz
 - 20 Quartz Stairs
+- 42 Mycelium
+- 48 Cobblestone Slab
 
 ---
 
@@ -80,7 +82,7 @@
 
 **Nahrungsmittel:**
 - Apple
-- Golden Apple
+- 46 Golden Apple
 - Bread
 - Porkchop
 - Cooked Porkchop
@@ -115,7 +117,7 @@
 - Diamond
 - Emerald
 - Redstone
-- Nether Quartz
+- 38 Nether Quartz
 - Slimeball
 - Bone
 - 33 Blaze Powder
@@ -162,7 +164,7 @@
 - Clock
 - Painting
 - 10 Sign
-- Item Frame
+- 44 Item Frame
 - Flower Pot
 - Lead
 - Name Tag
@@ -173,7 +175,7 @@
 - Firework Rocket
 
 food
-- 55 Steak
+- 58 Steak
 
 add 
 - 57 Iron Door
@@ -199,6 +201,7 @@ add
 - 24 Oak Wood Planks
 - 26 Seeds
 - 28 Bottle o' Enchanting
+- 55 & 56 Banner
 
 mods gg
 - 47 Entrindeter Eichenholz-Schreib
