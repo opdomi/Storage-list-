@@ -40,6 +40,7 @@
 - 20 Quartz Stairs
 - 42 Mycelium
 - 48 Cobblestone Slab
+- 50 Dark Oak Wood Planks
 
 ---
 
@@ -104,7 +105,7 @@
 ---
 
 **Materialien:**
-- Stick
+- 64 Stick
 - String
 - Feather
 - 1 Gunpowder
@@ -127,6 +128,7 @@
 - 25 Magma Cream
 - Ghast Tear
 - 21 Spider Eye
+- 52 Oxeye Daisy
 
 ---
 
@@ -202,6 +204,8 @@ add
 - 26 Seeds
 - 28 Bottle o' Enchanting
 - 55 & 56 Banner
+- 60 Azure Bluet
+- 62 Dandelion
 
 mods gg
 - 47 Entrindeter Eichenholz-Schreib
