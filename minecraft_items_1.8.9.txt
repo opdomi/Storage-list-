@@ -1,8 +1,8 @@
 ---
 
 **Blöcke:**
-- 12 Stone
-- 5 Stone Brock Stairs 
+- A12 Stone
+- A5 Stone Brock Stairs 
 - 45 Stone Bricks
 - 30 Grass Block
 - Dirt
@@ -12,7 +12,7 @@
 - Spruce Wood
 - Dark Oak Wood
 - Jungle Wood
-- 9 Sand
+- A9 Sand
 - Gravel
 - 40 Glass
 - Bricks
@@ -35,7 +35,7 @@
 - Oak Leaves
 - Birch Leaves
 - Spruce Leaves
-- 11 Slime Block
+- A11 Slime Block
 - 22 Block of Quartz
 - 20 Quartz Stairs
 - 42 Mycelium
@@ -108,7 +108,7 @@
 - 64 Stick
 - String
 - Feather
-- 1 Gunpowder
+- A 1 Gunpowder
 - Flint
 - 59 Leather
 - Coal
@@ -181,9 +181,9 @@ food
 
 add 
 - 57 Iron Door
-- 7 Sugar Canes
+- A7 Sugar Canes
 - 2 Oak Leaves
-- 3 Sugar
+- A3 Sugar
 - 15 & 16 Glass Bottle
 - 17 kopf
 - 19 Nether 
