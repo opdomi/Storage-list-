@@ -90,11 +90,14 @@
 - Potato
 - Baked Potato
 - Pumpkin Pie
+- 36 Pumpkin
 - Beef
 - Cooked Beef
 - Chicken
 - Cooked Chicken
 - Mushroom Stew
+- 32 Brown Mushroom
+- 34 red Mushroom
 
 ---
 
