@@ -4,7 +4,7 @@
 - 12 Stone
 - 5 Stone Brock Stairs 
 - 45 Stone Bricks
-- Grass Block
+- 30 Grass Block
 - Dirt
 - Cobblestone
 - Oak Wood
@@ -36,6 +36,8 @@
 - Birch Leaves
 - Spruce Leaves
 - 11 Slime Block
+- 22 Block of Quartz
+- 20 Quartz Stairs
 
 ---
 
@@ -127,7 +129,7 @@
 - Leather Helmet
 - Leather Chestplate
 - Leather Leggings
-- Leather Boots
+- 41 Leather Boots
 - Iron Helmet
 - Iron Chestplate
 - Iron Leggings
@@ -191,6 +193,9 @@ add
 - 14 Ink Sac
 - 18 Vines
 - 20 Oak Planks
+- 24 Oak Wood Planks
+- 26 Seeds
+- 28 Bottle o' Enchanting
 
 mods gg
 - 47 Entrindeter Eichenholz-Schreib
