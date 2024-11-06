@@ -1,4 +1,4 @@
-items = """
+
 - Blöcke:
 - A12 Stone
 - A5 Stone Brick Stairs
