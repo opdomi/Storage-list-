@@ -1,10 +1,9 @@
----
-
-**Blöcke:**
+items = """
+- Blöcke:
 - A12 Stone
-- A5 Stone Brock Stairs 
-- 45 Stone Bricks
-- 30 Grass Block
+- A5 Stone Brick Stairs
+- B45 Stone Bricks
+- B30 Grass Block
 - Dirt
 - Cobblestone
 - Oak Wood
@@ -14,7 +13,7 @@
 - Jungle Wood
 - A9 Sand
 - Gravel
-- 40 Glass
+- B40 Glass
 - Bricks
 - TNT
 - Mossy Cobblestone
@@ -36,15 +35,13 @@
 - Birch Leaves
 - Spruce Leaves
 - A11 Slime Block
-- 22 Block of Quartz
-- 20 Quartz Stairs
-- 42 Mycelium
-- 48 Cobblestone Slab
-- 50 Dark Oak Wood Planks
+- B22 Block of Quartz
+- B20 Quartz Stairs
+- B42 Mycelium
+- B48 Cobblestone Slab
+- B50 Dark Oak Wood Planks
 
----
-
-**Werkzeuge:**
+- Werkzeuge:
 - Wooden Pickaxe
 - Stone Pickaxe
 - Iron Pickaxe
@@ -64,26 +61,22 @@
 - Stone Hoe
 - Iron Hoe
 - Gold Hoe
-- 43 Diamond Hoe
+- B43 Diamond Hoe
 - Shears
 - Flint and Steel
 
----
-
-**Waffen:**
+- Waffen:
 - Wooden Sword
 - Stone Sword
 - Iron Sword
 - Gold Sword
 - Diamond Sword
-- 61 Bow
+- A61 Bow
 - Arrow
 
----
-
-**Nahrungsmittel:**
+- Nahrungsmittel:
 - Apple
-- 46 Golden Apple
+- B46 Golden Apple
 - Bread
 - Porkchop
 - Cooked Porkchop
@@ -93,24 +86,22 @@
 - Potato
 - Baked Potato
 - Pumpkin Pie
-- 36 Pumpkin
+- A36 Pumpkin
 - Beef
 - Cooked Beef
 - Chicken
 - Cooked Chicken
 - Mushroom Stew
-- 32 Brown Mushroom
-- 34 red Mushroom
+- B32 Brown Mushroom
+- A34 Red Mushroom
 
----
-
-**Materialien:**
-- 64 Stick
+- Materialien:
+- B64 Stick
 - String
 - Feather
-- A 1 Gunpowder
+- A1 Gunpowder
 - Flint
-- 59 Leather
+- B59 Leather
 - Coal
 - Charcoal
 - Iron Ingot
@@ -118,25 +109,23 @@
 - Diamond
 - Emerald
 - Redstone
-- 38 Nether Quartz
+- B38 Nether Quartz
 - Slimeball
 - Bone
-- 33 Blaze Powder
+- A33 Blaze Powder
 - Blaze Rod
 - Ender Pearl
 - Eye of Ender
-- 25 Magma Cream
+- B25 Magma Cream
 - Ghast Tear
-- 21 Spider Eye
-- 52 Oxeye Daisy
+- A21 Spider Eye
+- B52 Oxeye Daisy
 
----
-
-**Rüstungen:**
+- Rüstungen:
 - Leather Helmet
 - Leather Chestplate
 - Leather Leggings
-- 41 Leather Boots
+- B41 Leather Boots
 - Iron Helmet
 - Iron Chestplate
 - Iron Leggings
@@ -148,15 +137,13 @@
 - Diamond Helmet
 - Diamond Chestplate
 - Diamond Leggings
-- 63 Diamond Boots
+- A63 Diamond Boots
 
----
-
-**Sonstige:**
-- 13 Book
-- 4 Bucket
-- 6 Water Bucket
-- 8 Lava Bucket
+- Sonstige:
+- A13 Book
+- B4 Bucket
+- B6 Water Bucket
+- B8 Lava Bucket
 - Milk Bucket
 - Minecart
 - Minecart with Chest
@@ -165,8 +152,8 @@
 - Compass
 - Clock
 - Painting
-- 10 Sign
-- 44 Item Frame
+- B10 Sign
+- B44 Item Frame
 - Flower Pot
 - Lead
 - Name Tag
@@ -176,40 +163,34 @@
 - Fire Charge
 - Firework Rocket
 
-food
-- 58 Steak
-
-add 
-- 57 Iron Door
+- Weitere hinzugefügte Gegenstände:
+- B57 Iron Door
 - A7 Sugar Canes
-- 2 Oak Leaves
+- B2 Oak Leaves
 - A3 Sugar
-- 15 & 16 Glass Bottle
-- 17 kopf
-- 19 Nether 
-- 27 Glowstone Dust
-- 23 Fermented Spider Eye
-- 29 Spruce Sapling
-- 31 Ghast Tear 
-- 35 Cocoa beans
-- 37 Sea Lantern
-- 39 Brick
-- 49 Poppy
-- 51 Wheat
-- 53 54 map 
-- 14 Ink Sac
-- 18 Vines
-- 20 Oak Planks
-- 24 Oak Wood Planks
-- 26 Seeds
-- 28 Bottle o' Enchanting
-- 55 & 56 Banner
-- 60 Azure Bluet
-- 62 Dandelion
-
-mods gg
-- 47 Entrindeter Eichenholz-Schreib
-
-B 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 62 64
-
-A 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63
+- B15 Glass Bottle
+- B16 Glass Bottle
+- A17 Kopf
+- A19 Nether
+- B27 Glowstone Dust
+- A23 Fermented Spider Eye
+- B29 Spruce Sapling
+- B31 Ghast Tear
+- A35 Cocoa Beans
+- B37 Sea Lantern
+- B39 Brick
+- B49 Poppy
+- B51 Wheat
+- B53 Map
+- B54 Map
+- B14 Ink Sac
+- A18 Vines
+- B20 Oak Planks
+- B24 Oak Wood Planks
+- B26 Seeds
+- B28 Bottle o' Enchanting
+- B55 Banner
+- B56 Banner
+- B60 Azure Bluet
+- A62 Dandelion
+"""
