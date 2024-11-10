@@ -158,7 +158,7 @@
 - Lead
 - Name Tag
 - Saddle
-- Enchanted Book
+- 1 bis 8 Enchanted Book
 - Potion
 - Fire Charge
 - Firework Rocket
