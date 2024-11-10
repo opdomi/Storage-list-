@@ -189,8 +189,7 @@
 - B24 Oak Wood Planks
 - B26 Seeds
 - B28 Bottle o' Enchanting
-- B55 Banner
-- B56 Banner
+- B55 Banner & B56 Banner
 - B60 Azure Bluet
 - A62 Dandelion
 """
