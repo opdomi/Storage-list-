@@ -158,7 +158,7 @@
 - Lead
 - Name Tag
 - Saddle
-- C1 Enchanted Book & D8 Enchanted Book
+- C1 & D8 Enchanted Book & Enchanted Book
 - Potion
 - Fire Charge
 - Firework Rocket
