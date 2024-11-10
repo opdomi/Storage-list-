@@ -158,7 +158,7 @@
 - Lead
 - Name Tag
 - Saddle
-- C1 & D8 Enchanted Book & Enchanted Book
+- C1 & D8 & Enchanted Book & Enchanted Book
 - Potion
 - Fire Charge
 - Firework Rocket
@@ -181,15 +181,14 @@
 - B39 Brick
 - B49 Poppy
 - B51 Wheat
-- B53 Map
-- B54 Map
+- A53 & B54 & Map & Map
 - B14 Ink Sac
 - A18 Vines
 - B20 Oak Planks
 - B24 Oak Wood Planks
 - B26 Seeds
 - B28 Bottle o' Enchanting
-- A55 & B56 Banner & Banner
+- A55 & B56 & Banner & Banner
 - B60 Azure Bluet
 - A62 Dandelion
 """
