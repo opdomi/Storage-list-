@@ -140,7 +140,7 @@
 - A63 Diamond Boots
 
 - Sonstige:
-- A13 Book
+- A13 Book & Bookshelf
 - B4 Bucket
 - B6 Water Bucket
 - B8 Lava Bucket
