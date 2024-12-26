@@ -40,6 +40,7 @@
 - B42 Mycelium
 - B48 Cobblestone Slab
 - B50 Dark Oak Wood Planks
+- C9 & D24 & Wool
 
 - Werkzeuge:
 - Wooden Pickaxe
@@ -191,4 +192,5 @@
 - A55 & B56 & Banner & Banner
 - B60 Azure Bluet
 - A62 Dandelion
+- C25 Nether Wart
 """
