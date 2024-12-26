@@ -181,6 +181,8 @@
 - B37 Sea Lantern
 - B39 Brick
 - B49 Poppy
+- D26 Rose Bush
+- C27 Oxeye Daisy
 - B51 Wheat
 - A53 & B54 & Map & Map
 - B14 Ink Sac
