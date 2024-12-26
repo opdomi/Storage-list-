@@ -196,4 +196,5 @@
 - A62 Dandelion
 - C25 Nether Wart
 - D28 Arrow
+- C29 Stick
 """
