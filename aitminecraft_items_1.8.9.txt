@@ -1,0 +1,200 @@
+
+- Blöcke:
+- A12 Stone
+- A5 Stone Brick Stairs
+- B45 Stone Bricks
+- B30 Grass Block
+- Dirt
+- Cobblestone
+- Oak Wood
+- Birch Wood
+- Spruce Wood
+- Dark Oak Wood
+- Jungle Wood
+- A9 Sand
+- Gravel
+- B40 Glass
+- Bricks
+- TNT
+- Mossy Cobblestone
+- End Stone
+- Obsidian
+- Netherrack
+- Soul Sand
+- Clay
+- Snow Block
+- Ice
+- Packed Ice
+- Sponge
+- Lapis Lazuli Block
+- Gold Block
+- Iron Block
+- Diamond Block
+- Emerald Block
+- Oak Leaves
+- Birch Leaves
+- Spruce Leaves
+- A11 Slime Block
+- B22 Block of Quartz
+- B20 Quartz Stairs
+- B42 Mycelium
+- B48 Cobblestone Slab
+- B50 Dark Oak Wood Planks
+- C9 & D24 & Wool
+
+- Werkzeuge:
+- Wooden Pickaxe
+- Stone Pickaxe
+- Iron Pickaxe
+- Gold Pickaxe
+- Diamond Pickaxe
+- Wooden Axe
+- Stone Axe
+- Iron Axe
+- Gold Axe
+- Diamond Axe
+- Wooden Shovel
+- Stone Shovel
+- Iron Shovel
+- Gold Shovel
+- Diamond Shovel
+- Wooden Hoe
+- Stone Hoe
+- Iron Hoe
+- Gold Hoe
+- B43 Diamond Hoe
+- Shears
+- Flint and Steel
+
+- Waffen:
+- Wooden Sword
+- Stone Sword
+- Iron Sword
+- Gold Sword
+- Diamond Sword
+- A61 Bow
+- Arrow
+
+- Nahrungsmittel:
+- Apple
+- B46 Golden Apple
+- Bread
+- Porkchop
+- Cooked Porkchop
+- Fish
+- Cooked Fish
+- Carrot
+- Potato
+- Baked Potato
+- Pumpkin Pie
+- A36 Pumpkin
+- Beef
+- Cooked Beef
+- Chicken
+- Cooked Chicken
+- Mushroom Stew
+- B32 Brown Mushroom
+- A34 Red Mushroom
+
+- Materialien:
+- B64 Stick
+- String
+- Feather
+- A1 Gunpowder
+- Flint
+- B59 Leather
+- Coal
+- Charcoal
+- Iron Ingot
+- Gold Ingot
+- Diamond
+- Emerald
+- Redstone
+- B38 Nether Quartz
+- Slimeball
+- Bone
+- A33 Blaze Powder
+- Blaze Rod
+- Ender Pearl
+- Eye of Ender
+- B25 Magma Cream
+- Ghast Tear
+- A21 Spider Eye
+- B52 Oxeye Daisy
+
+- Rüstungen:
+- Leather Helmet
+- Leather Chestplate
+- Leather Leggings
+- B41 Leather Boots
+- Iron Helmet
+- Iron Chestplate
+- Iron Leggings
+- Iron Boots
+- Gold Helmet
+- Gold Chestplate
+- Gold Leggings
+- Gold Boots
+- Diamond Helmet
+- Diamond Chestplate
+- Diamond Leggings
+- A63 Diamond Boots
+
+- Sonstige:
+- A13 Book & Bookshelf
+- B4 Bucket
+- B6 Water Bucket
+- B8 Lava Bucket
+- Milk Bucket
+- Minecart
+- Minecart with Chest
+- Boat
+- Bed
+- Compass
+- Clock
+- Painting
+- B10 Sign
+- B44 Item Frame
+- Flower Pot
+- Lead
+- Name Tag
+- Saddle
+- C1 & D8 & Enchanted Book & Enchanted Book
+- Potion
+- Fire Charge
+- Firework Rocket
+
+- Weitere hinzugefügte Gegenstände:
+- B57 Iron Door
+- A7 Sugar Canes
+- B2 Oak Leaves
+- A3 Sugar
+- B15 Glass Bottle
+- B16 Glass Bottle
+- A17 Kopf
+- A19 Nether
+- B27 Glowstone Dust
+- A23 Fermented Spider Eye
+- B29 Spruce Sapling
+- B31 Ghast Tear
+- A35 Cocoa Beans
+- B37 Sea Lantern
+- B39 Brick
+- B49 Poppy
+- D26 Rose Bush
+- C27 Oxeye Daisy
+- B51 Wheat
+- A53 & B54 & Map & Map
+- B14 Ink Sac
+- A18 Vines
+- B20 Oak Planks
+- B24 Oak Wood Planks
+- B26 Seeds
+- B28 Bottle o' Enchanting
+- A55 & B56 & Banner & Banner
+- B60 Azure Bluet
+- A62 Dandelion
+- C25 Nether Wart
+- D28 Arrow
+- C29 Stick
+"""
